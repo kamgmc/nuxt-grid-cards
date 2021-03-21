@@ -1,0 +1,11 @@
+html,
+body {
+  height: 100%;
+}
+
+div#__nuxt,
+#__layout,
+#__layout > div,
+#app {
+  min-height: 100vh;
+}
